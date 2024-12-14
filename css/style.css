@@ -1,0 +1,44 @@
+img{
+width: 100%;
+margin-top: 50px;
+}
+body{background-color: #cab9af;}
+.Resume{
+    font-family:serif;
+    font-size: 70px;
+    color: white;
+    font-weight: 1000;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-decoration: underline;
+}
+.resumeimg{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.resumediv{
+    font-family: serif;
+}
+.contacts{
+    display: flexbox;
+    justify-items: center;
+    border: 5px solid white;
+    font-family: serif;
+    margin-top: 150px;
+}
+.details{
+    padding: 15px;
+    margin: 0;
+    border: 2px solid black;
+    width: fit-content;
+    font-size: 20px;
+}
+.carousel{
+    width: fit-content;
+    height: fit-content;
+    margin-left: 150px;
+    }
+    
+   
